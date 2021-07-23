@@ -1,1 +1,1 @@
-# ECoG_Project
+# ECoG Project
